@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD -->
 # disease_detector
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<!-- ======= -->
+# disease-detector
+<!-- >>>>>>> 4f83fc79bd898e6b3bc5a9b60aa003076f8e6e40 -->
